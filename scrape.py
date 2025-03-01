@@ -33,7 +33,7 @@ def scrape_uci_datasets():
             'Donated on ', '') if donated_date else "N/A"
 
 
-        description = soup.find('p', class_='svelte-17wf9gp')
+        description = soup.find('p', class_='svelte-17wf9gp') #truncate mr-8
         description = description.text.strip() if description else "N/A"
 
 

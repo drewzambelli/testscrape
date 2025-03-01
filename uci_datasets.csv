@@ -1,0 +1,3 @@
+Dataset Name,Donated Date,Description,Dataset Characteristics,Subject Area,Associated Tasks,Feature Type,Instances,Features
+Iris,6/30/1988,N/A,Tabular,Biology,Classification,Real,150,4
+Heart Disease,6/30/1988,N/A,Multivariate,Health and Medicine,Classification,"Categorical, Integer, Real",303,13
